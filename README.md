@@ -424,13 +424,8 @@ Contributions are welcome! Please feel free to submit issues, feature requests, 
       <a href="https://github.com/ricardoham">@ricardoham</a>
     </td>
     <td align="center" width="150">
-      <a href="https://github.com/sabrina-003"><img src="https://github.com/sabrina-003.png?size=200" width="100" alt="Sabrina"/></a><br>
+      <a href="https://github.com/binaps"><img src="https://github.com/binaps.png?size=200" width="100" alt="Sabrina"/></a><br>
       <b>Sabrina</b><br>
-      <a href="https://github.com/sabrina-003">@sabrina-003</a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/binaps"><img src="https://github.com/binaps.png?size=200" width="100" alt="binaps"/></a><br>
-      <b>binaps</b><br>
       <a href="https://github.com/binaps">@binaps</a>
     </td>
   </tr>
